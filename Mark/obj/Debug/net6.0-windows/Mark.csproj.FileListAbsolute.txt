@@ -1,0 +1,17 @@
+C:\Users\dhruv\source\repos\Mark\Mark\bin\Debug\net6.0-windows\Mark.exe
+C:\Users\dhruv\source\repos\Mark\Mark\bin\Debug\net6.0-windows\Mark.deps.json
+C:\Users\dhruv\source\repos\Mark\Mark\bin\Debug\net6.0-windows\Mark.runtimeconfig.json
+C:\Users\dhruv\source\repos\Mark\Mark\bin\Debug\net6.0-windows\Mark.dll
+C:\Users\dhruv\source\repos\Mark\Mark\bin\Debug\net6.0-windows\Mark.pdb
+C:\Users\dhruv\source\repos\Mark\Mark\obj\Debug\net6.0-windows\Mark.csproj.AssemblyReference.cache
+C:\Users\dhruv\source\repos\Mark\Mark\obj\Debug\net6.0-windows\MarksCalculator.Form1.resources
+C:\Users\dhruv\source\repos\Mark\Mark\obj\Debug\net6.0-windows\Mark.csproj.GenerateResource.cache
+C:\Users\dhruv\source\repos\Mark\Mark\obj\Debug\net6.0-windows\Mark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhruv\source\repos\Mark\Mark\obj\Debug\net6.0-windows\Mark.AssemblyInfoInputs.cache
+C:\Users\dhruv\source\repos\Mark\Mark\obj\Debug\net6.0-windows\Mark.AssemblyInfo.cs
+C:\Users\dhruv\source\repos\Mark\Mark\obj\Debug\net6.0-windows\Mark.csproj.CoreCompileInputs.cache
+C:\Users\dhruv\source\repos\Mark\Mark\obj\Debug\net6.0-windows\Mark.dll
+C:\Users\dhruv\source\repos\Mark\Mark\obj\Debug\net6.0-windows\refint\Mark.dll
+C:\Users\dhruv\source\repos\Mark\Mark\obj\Debug\net6.0-windows\Mark.pdb
+C:\Users\dhruv\source\repos\Mark\Mark\obj\Debug\net6.0-windows\Mark.genruntimeconfig.cache
+C:\Users\dhruv\source\repos\Mark\Mark\obj\Debug\net6.0-windows\ref\Mark.dll
